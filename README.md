@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @prawira78
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m prawira from kamar taj
+- 👀 I’m interested in multiverse
+- 🌱 I’m currently learning dark hole
+- 💞️ I’m looking to collaborate on stephen strange
+- 📫 find me on kamar taj
 
 <!---
 prawira78/prawira78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
